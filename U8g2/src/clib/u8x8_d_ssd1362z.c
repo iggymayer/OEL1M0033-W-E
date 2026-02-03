@@ -35,8 +35,8 @@
       256 x 64
       4bit gray scale
 
-  Note: Currently the external IREF is activated.
-  Maybe we need a constructor with internal IREF
+  Note: Currently the internal IREF is activated.
+        Without external VP capacitor
   
 */
 #include "u8x8.h"
